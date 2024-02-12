@@ -6,7 +6,7 @@
 #define EN 0x20     /* PTA5 mask */
 
 //Function Prototypes 
-//Either use this or define the functions before main funciton
+
 void Delay(volatile unsigned int time_del);
 void LCD_command(unsigned char command);
 void LCD_data(unsigned char data);
