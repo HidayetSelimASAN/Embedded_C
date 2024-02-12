@@ -32,7 +32,7 @@ RSA is highly used for secure communication like HTTPS and digital signatures. T
 
 ## 🎨 Design Specifications
 This design is implemented on FRDM-KL25Z which features ARM® Cortex™-M0+ Core. I/O port connections according to the given schematic. The 1kΩ resistor is changed with 3.3kΩ resistor to change LCD contrast to improve visibility.
-![Schematic](images/shematic.png)
+![Schematic](images/schematic.png)
 
 ## 🏆 Simulation Results
 
