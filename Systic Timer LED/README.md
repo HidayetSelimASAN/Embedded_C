@@ -32,15 +32,16 @@ The aim of this project is to control on board RGB LED of FRDM KL-25Z board and 
 
 ## 🔓 Algorithm & Methodology
 
+*not completed yet*
 
 
 ## 🎨 Design Specifications
 
-Header MKL25 is initialized at the beginning of the program. 
+Header MKL25 is initialized at the beginning of the program. *not completed yet*
 
 ## 🏆 Simulation Results
 
-not completed yet
+*not completed yet*
 
 
 ## 🔎 Further Details
