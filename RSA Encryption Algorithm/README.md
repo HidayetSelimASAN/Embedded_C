@@ -38,7 +38,7 @@ This design is implemented on FRDM-KL25Z which features ARM® Cortex™-M0+ Core
 
 ## 🏆 Simulation Results
 
-not completed yet
+*not completed yet*
 
 
 ## 🔎 Further Details
