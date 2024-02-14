@@ -108,7 +108,7 @@ int main(void)
 
 
 void PORTD_IRQHandler(void){ // Counter increment
-if (glitch_catch == 0){      
+if (glitch_catch == 0){      // check is there a glitch
 number = number +1;
 glitch_catch = 1;
 PTC->PDOR = (number << 1 );
